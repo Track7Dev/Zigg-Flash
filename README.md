@@ -6,7 +6,7 @@ This is a logic to use defi to bring liquidity to new generation traders
 
 Here is a video explaining my logic/Implementation
 
-https://www.youtube.com/watch?v=yGbpLHtLiv4&t=23s
+https://youtu.be/yGbpLHtLiv4
 
 files provided 
 
