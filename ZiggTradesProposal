@@ -1,0 +1,197 @@
+                                       // ZiggFlash Logic With Defi // UnderPromise&OverDeliver
+ 
+
+
+This is my logic for my first defi project. 
+
+Aim
+ 
+To provide the first and leading trading platform that is operated by Flashloan which will help breed new gen traders.
+
+We aim to become liquidity giants that help millions of people who don’t know how to code.
+
+We teach them the foundations of cryptocurrency to advanced coding and trading techniques to use liquidity  
+
+A leverage and Margin platform to find price action on all asset classes
+
+Gives the user the opportunity to build wealth if coding and trading skills improve while using the platform. () 
+
+Build a system that allows more advance users to have access to more Flashloan liquidity (ZiggMint) flash mintable tokens 
+
+Offer the best education on the new way of trading in the market (ZiggLearn)
+
+Build flash token that generates interest when flash loans are audited (ZiggEarn)
+
+build ecosystem that is fully defi proof for the future of technology (ZiggTrust)
+
+building 1hr - day loan protocol so that people can do multiple transactions (we make liquidity through defi Flashloan and form a loan structure for people to loan the contract for a day to perform defi opportunities).
+
+
+
+
+Example Script
+ 
+"ZiggTrade script Portal V1 
+ 
+Step 1 - View Opportunities in Realtime 
+ 
+ A tool that looks for all arb opportunities in the defi market. 
+     
+ Example of Script 
+                      
+                       Finding Arb Opp...
+ 
+                       Okay …
+ 
+                       List of Arbs
+ 
+                       DAI - WBTC = 2$ Profit (Kyber to Uniswap) 
+                       ETH - SAI = 5$ Profit. (UniSwap to Bancor)
+ 
+                       DO YOU WANT TO SEND TRADE TO STEP 3?
+ 
+                      Y/YES    N/NO
+ 
+                      Okay Trade Sent to Step 2
+ 
+(Future) A tool that monitors the defi market for margin opportunities  
+ 
+This tool will allow me to look for specific metrics that will move price in markets.
+ 
+This will allow me to place margin trades that allow me to catch a falling knife (a trade that’s in place on incoming volume/volatility ) 
+ 
+For Example 
+ 
+•	Looking at volume and volatility in the market 
+•	Looking when whales move money to defi products or centralized exchanges
+•	Looking for big price spikes in the markets  
+•	Looking for trades at phycological numbers 
+•	Looking at orderbooks and volume profiles to see where liquidity is entering the market 
+•	Looking for news related price spikes in the market 
+•	Looking for huge political/Investment news that will increase demand for cryptocurrency (Digital Dollar, Bitcoin Havening, Eth 2.0 
+•	Looking for defi products that will increase/decrease defi prices 
+•	Looking for lending liquidation opportunities 
+•	Looking for when Tether Mints Tokens (Volatility in market)
+•	Use Kollatial protocol to call Flash loan ( for now or create similar model)
+
+ 
+ Step 2 - Configure Main Settings
+ 
+This part sets up the environment for accessing Ethereum and defi protocols. So, I don’t need to code anything but the script asks me for everything that needs to be modified for the contract or node to be correct 
+ 
+NodeJS settings
+Truffle Box
+Flashloan Box
+Json packages 
+Money Legos ( list of all liquidity providers contracts and ABI's )
+MetaMask 
+Ganache Cli 
+Heroku
+Iufura Key 
+Proxy Contract for Cheaper gas fess for multiple transactions 
+Connecting to Trading view webhook 
+Connecting to Defi Margin Leverage Platform (DYDX)
+Use Kollatial protocol to call Flash loan
+Etc...
+ 
+Example Script
+ 
+1 - Choose logic (Script Makes Contract for Solidity / JavaScript Files to deploy on Mainnet) 
+
+A - Arb 
+B - Arb Margin
+C - Margin
+D  Over Marginalized 
+E - Multiple Arb and Margin Trade 
+F- Liquidation 
+ 
+ 
+2 – Key params that need to be filled or chosen  
+
+// Mainnet or Test?
+Mainnet
+
+// Contract Address
+XX
+
+// Public/private Key
+XX
+XX
+ 
+// Amounts for gas transactions
+10-15	WEI 
+ 
+// Amount for flash loan
+10000ETH
+ 
+// Who are you borrowing from? (Gets contract and Abi Keys for each protocol and does auto contract maker in script ) could use money Legos
+Aave, Maker, Compound
+ 
+// How do you want to deploy?
+
+Remix - Web3
+
+In IDE/Terminal - Truffle / Ganache Cli / Infura / Heroku /Node JS 
+          
+
+
+
+Step 3 Execute 
+
+
+Completed..
+
+All Settings completed and checked Start Trade..
+
+Calling all contracts and setting Migrations...
+
+Borrowed 10'000 ETH…
+
+Logic D used...
+
+Swapped 5000ETH for WBTC…
+
+Margin Long WBTC...
+
+Profit 1000 WBTC :)
+
+Payback Lending Providers Balance, Fees, Gas...
+
+OrFeed Fees...
+
+Remaining Balance...
+
+850WBTC
+
+Withdrawing to Designated Wallet...
+
+Withdrawal Complete :)
+
+ZiggTrade 
+
+
+Research for v1 bot 
+
+simple bot to excute trades from trading view alerts.
+
+
+the code calls the smart contract to get liquidity and perform logic in one transaction.
+
+
+
+https://studydefi.com/ 
+https://www.kollateral.co/
+https://docs.dydx.exchange/#/python?id=installation
+https://github.com/Austin-Williams/flash-mintable-tokens
+https://github.com/Robswc/tradingview-webhooks-bot
+
+
+
+
+
+
+
+
+
+
+
