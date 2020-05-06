@@ -30,9 +30,9 @@ Research for v1 bot
 
 simple bot to excute trades from trading view alerts.
 
-bot triggers smart contract to activate flash loans then sends funds to dxdy for margin trade.
+bot triggers smart contract to activate flash loans then sends funds to dydx for margin trade.
 
-once profit has been made send the orginal balanc plus fees back and send remaining profit to new contract or wallet 
+once profit has been made send the orginal balance plus fees back to lenders and send remaining profit to new contract or wallet 
 
 smart contract will place trade via dydx and can be only called by trading bot (tradingview webhook)
 
