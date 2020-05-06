@@ -26,7 +26,30 @@ build ecosystem that is fully defi proof for the future of technology (ZiggTrust
 
 building 1hr - day loan protocol so that people can do multiple transactions (we make liquidity through defi Flashloan and form a loan structure for people to loan the contract for a day to perform defi opportunities).
 
+Research for v1 bot 
 
+simple bot to excute trades from trading view alerts.
+
+bot triggers smart contract to activate flash loans then sends funds to dxdy for margin trade.
+
+once profit has been made send the orginal balanc plus fees back and send remaining profit to new contract or wallet 
+
+smart contract will place trade via dydx and can be only called by trading bot (tradingview webhook)
+
+i have listed all the things ive found to help with this project 
+
+both of those flashlons templates will work well toghther ( not sure how to merge them )
+
+you can use any method that works for you!
+
+
+flashloan template ( safer flashloans ) https://github.com/Austin-Williams/safer-flash-loans
+flashloan template ( with proxy contracts ) https://github.com/kendricktan/generalized-aave-flashloans
+money legos - https://studydefi.com/ 
+Kollateral - https://www.kollateral.co/
+dydx https://docs.dydx.exchange/#/python?id=installation
+moonnet -https://moonnet.now.sh/dashboard
+Trading Bot (webhooks) https://github.com/Robswc/tradingview-webhooks-bot
 
 
 Example Script
@@ -170,20 +193,7 @@ Withdrawal Complete :)
 ZiggTrade 
 
 
-Research for v1 bot 
 
-simple bot to excute trades from trading view alerts.
-
-
-the code calls the smart contract to get liquidity and perform logic in one transaction.
-
-
-
-https://studydefi.com/ 
-https://www.kollateral.co/
-https://docs.dydx.exchange/#/python?id=installation
-https://github.com/Austin-Williams/flash-mintable-tokens
-https://github.com/Robswc/tradingview-webhooks-bot
 
 
 
