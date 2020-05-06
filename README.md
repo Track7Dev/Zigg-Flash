@@ -1,12 +1,10 @@
 # Zigg-Flash 
 
-Hi Nassim, I hope your well and doing great!
+Hi Bryan 
+
+I hope your well and doing great!
 
 This is a logic to use defi to bring liquidity to new generation traders
-
-Here is a video explaining my logic/Implementation
-
-https://youtu.be/yGbpLHtLiv4
 
 files provided 
 
@@ -20,4 +18,4 @@ License = Devs can make this into the actual program/bot for us to finally make 
 
 I hope to hear from you soon 
 
-Timothy Okorosobo 
+Tim
