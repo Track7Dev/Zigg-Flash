@@ -1,7 +1,5 @@
 # Zigg-Flash 
 
-Hi Bryan 
-
 I hope your well and doing great!
 
 This is a logic to use defi to bring liquidity to new generation traders
