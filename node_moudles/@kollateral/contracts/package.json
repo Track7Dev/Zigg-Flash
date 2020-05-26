@@ -1,0 +1,50 @@
+{
+  "_from": "@kollateral/contracts",
+  "_id": "@kollateral/contracts@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-c260vBTWMd0+3F66vVkkjUllrRHX9XtZK0IJQ1CDuz+7977zgYHSjaOM+HRThHXBsSu9xOnFIFLWUPp635OVUw==",
+  "_location": "/@kollateral/contracts",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@kollateral/contracts",
+    "name": "@kollateral/contracts",
+    "escapedName": "@kollateral%2fcontracts",
+    "scope": "@kollateral",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@kollateral/contracts/-/contracts-0.1.1.tgz",
+  "_shasum": "f88d5d36b463c7d201a8f19e7b9171cd0c6932c6",
+  "_spec": "@kollateral/contracts",
+  "_where": "/home/tdom/generalized-aave-flashloans-2",
+  "bugs": {
+    "url": "https://github.com/kbrizzle/kollateral/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  },
+  "deprecated": false,
+  "description": "Smart Contract helpers for Kollateral",
+  "files": [
+    "**/*.sol",
+    "/build/contracts/*.json"
+  ],
+  "homepage": "https://github.com/kbrizzle/kollateral#readme",
+  "name": "@kollateral/contracts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbrizzle/kollateral.git"
+  },
+  "scripts": {
+    "prepare": "cd ../../ && npm run build && cd contracts/common"
+  },
+  "version": "0.1.1"
+}
