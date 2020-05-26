@@ -1,19 +1,24 @@
-# Zigg-Flash 
+# generalized-aave-flashloans
+Generalized Aave Flashloans
 
-I hope your well and doing great!
-
-This is a logic to use defi to bring liquidity to new generation traders
-
-files provided 
-
-ZiggFlash Proposal= My Proposal/Implementation 
+Use Proxies in conjunction with flashloans!
 
 
-ZiggFlash.png = Photo of Flow Diagram
+# Getting started
+```bash
+# Install dependencies
+npm install -g ganache-cli truffle mocha
+npm install
 
+# Run ganache in a separate terminal
+ganache-cli -f https://mainnet.infura.io/v3/<API_KET> -d
 
-License = Devs can make this into the actual program/bot for us to finally make a new license that makes sure devs are paid for their work. 
+# Deploy contract
+truffle migrate --reset --network development
 
-I hope to hear from you soon 
+# Run test
+mocha
 
-Tim
+# BONUS see program execution flow
+truffle debug <TX_HASH>
+```
